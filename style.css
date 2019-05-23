@@ -5,10 +5,8 @@ body,h1,h2,h3,h4,h5 {
 #fire-starter, #canvas{
         position: fixed;
 }
+
 #canvas{
-        z-index: 0
+        pointer-events: none;
 }
 
-#fire-start{
-        z-index: 2
-}
