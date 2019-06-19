@@ -12,6 +12,7 @@ of time delete themselves and create an explosion effect
 Best results by running a local server in the current working directory (the one with `index.html`), for example with `php -S localhost:8000` (opens server on localhost, port 8000
 
 ## TODO
+- [x] Comments
 - [ ] Make code readable
 - [ ] Break into multiple files
 - [ ] Fix GC issues, stuttering after many objects have been deleted
